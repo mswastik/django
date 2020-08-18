@@ -1,2 +1,1 @@
-# django
-Django App
+# Constraint Programming
